@@ -4,7 +4,7 @@ Este é um programa que ler os dados de N contribuintes(N fornecido pelo usuári
 
 **Pessoa física**: pessoas cuja renda foi abaixo de 20000.00 pagam 15% de imposto. Pessoas com
 renda de 20000.00 em diante pagam 25% de imposto. Se a pessoa teve gastos com saúde, 50%
-destes gastos são abatidos no imposto.
+destes gastos são abatidos no imposto.   
 **Exemplo:** uma pessoa cuja renda foi 50000.00 e teve 2000.00 em gastos com saúde, o imposto
 fica: (50000 * 25%) - (2000 * 50%) = 11500.00  
 **Pessoa jurídica**: pessoas jurídicas pagam 16% de imposto. Porém, se a empresa possuir mais de 10
