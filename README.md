@@ -8,7 +8,7 @@ destes gastos são abatidos no imposto.
 **Exemplo:** uma pessoa cuja renda foi 50000.00 e teve 2000.00 em gastos com saúde, o imposto
 fica: (50000 * 25%) - (2000 * 50%) = 11500.00  
 **Pessoa jurídica**: pessoas jurídicas pagam 16% de imposto. Porém, se a empresa possuir mais de 10
-funcionários, ela paga 14% de imposto.
+funcionários, ela paga 14% de imposto.  
 **Exemplo:** uma empresa cuja renda foi 400000.00 e possui 25 funcionários, o imposto fica:
 400000 * 14% = 56000.00
 ## Linguagem utilizada:
